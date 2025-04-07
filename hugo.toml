@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'sv'
+title = 'jonasonline'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
