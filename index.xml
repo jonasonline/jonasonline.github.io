@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas Online</title>
+    <link>https://jonasonline.se/</link>
+    <description>Jonas Online - Work and Life</description>
+    <language>sv</language>
+    <atom:link href="https://jonasonline.se/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Jonas Online</title>
+      <link>https://jonasonline.se/</link>
+      <description>Welcome to Jonas Online - exploring work at nasman.dev and life at wineanddine.blog</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jonasonline.se/</guid>
+    </item>
+  </channel>
+</rss>
